@@ -1,0 +1,4 @@
+# requirements.txt
+
+# High-performance DataFrame library used for CSV to Parquet conversion
+polars>=0.20.0
