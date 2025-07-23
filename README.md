@@ -76,5 +76,3 @@ parquet/
 
 ## 📮 Contact
 For questions or suggestions, please open an issue or contact @its-spark-dev.
-
-**Note: This project is provided without a license. Use at your own discretion.**
